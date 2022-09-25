@@ -2,17 +2,17 @@
 "data": [
 {
   "title":"电影",
-  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/films.json",
+  "address":"https://ghproxy.com/https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/films.json",
   "type":"dir",
 },  
 {
   "title":"剧集",
-  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/series/series.json",
+  "address":"https://ghproxy.com/https://github.com/puzhanrui/tvok/blob/puzhanrui-patch-1/oktv/series/series.json",
   "type":"dir",
 },  
 {
   "title":"直播",
-  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/iptv/iptv.json",
+  "address":"https://ghproxy.com/https://github.com/puzhanrui/tvok/blob/puzhanrui-patch-1/oktv/iptv/iptv.json",
   "type":"dir",
 }, 
 {
