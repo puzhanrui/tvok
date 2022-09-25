@@ -2,7 +2,7 @@
 "data": [
 {
   "title":"电影",
-  "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/films.json",
+  "address":"https://github.com/puzhanrui/tvok/blob/puzhanrui-patch-1/oktv/films/films.json",
   "type":"dir",
 },  
 {
