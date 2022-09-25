@@ -6,6 +6,11 @@
   "address":"https://ghproxy.com/https://raw.githubusercontent.com/xinerqu/biutv/main/oktv/films/灰影人.m3u8",
 },
 
+ {	
+  "title": "复仇者联盟4：终局之战",
+  "address":"https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/a0ba49ba-87b8-41b4-8ad3-50b8fc26ffd8/8448/54cff92b-308e-4a0d-a72e-82840840db0f/SD/playlist.m3u8",
+},
+ 
 {	
   "title": "匹诺曹-迪士尼真人版",
   "address":"https://sh-data-s01.chinaeast2.cloudapp.chinacloudapi.cn:1401/Cache/19277014a7f645df4794f3d0966652a2.m3u8",
