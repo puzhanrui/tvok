@@ -6,10 +6,10 @@
 
 [Script]
 # HTTP拦截获取Cookie
-quark-cookie-get = type=http-request, pattern=^https?:\/\/pan\.quark\.cn, script-path=https://raw.githubusercontent.com/yourname/quark/main/quark-cookie.js, requires-body=true, timeout=10
+quark-cookie-get = type=http-request, pattern=^https?:\/\/pan\.quark\.cn, script-path= https://raw.githubusercontent.com/puzhanrui/tvok/refs/heads/main/quark-cookie.js, requires-body=true, timeout=10
 
 # 清除Cookie脚本
-quark-cookie-clear = type=generic, script-path=https://raw.githubusercontent.com/yourname/quark/main/quark-cookie.js, argument=clear, timeout=5
+quark-cookie-clear = type=generic, script-path= https://raw.githubusercontent.com/puzhanrui/tvok/refs/heads/main/quark-cookie.js, argument=clear, timeout=5
 
 [MITM]
 # 夸克网盘域名
